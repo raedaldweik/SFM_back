@@ -1,0 +1,7 @@
+pandas==1.5.3
+sqlalchemy==2.0.21
+openai==0.28.0
+streamlit==1.26.0
+langchain-community==0.0.9
+langchain-openai==0.0.3
+python-dotenv==1.0.0
